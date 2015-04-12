@@ -1,0 +1,5 @@
+.classpath
+.project
+.settings/
+gov.nasa.telemetry.model.User/
+target
